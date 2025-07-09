@@ -48,5 +48,6 @@ O projeto será executado em http://localhost:3000.
 
 - TypeScript
 - React
-- Java (versão 17 ou superior)
+- Node.js v16
+- Java (v17 ou superior)
 - Micro-serviço RESTful
